@@ -1,0 +1,64 @@
+.background{
+  background-color: #CFECEC;
+}
+h1{
+  text-align: center;
+}
+nav{
+  padding-top: 2%;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 2%; 
+}
+  body {
+  padding-top: 10%;
+  padding-left: 0%;
+  padding-right: 0%;
+  padding-bottom: 10%;
+  background-color: #87AFC7;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+ button {  
+    border: 0;
+    background: transparent;
+    margin: 15px 10px 15px 0px;
+}
+p {
+  color: #333333;
+  font-size: 160%;
+  text-align: center;
+  padding: 3%;
+}
+img{
+  text-align: center;
+  padding-bottom: 40px;
+}
+#myThumbnails{
+  text-align: center;
+  font-weight: bold;
+}
+#tn{
+  padding-right: 40px;
+}
+.icons{
+  text-align: center;
+}
+#icon{
+  padding-right: 40px;
+}
+#contactMe{
+  padding-top: 50px;
+  text-align: center;
+}
+#portfolio{
+ padding-top: 50px;
+  padding-bottom: 50px;
+}
+#blogger{
+padding-top: 50px;
+padding-right: 10px;
+}
+ 
+
+
